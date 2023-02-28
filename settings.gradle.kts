@@ -1,1 +1,1 @@
-rootProject.name = "kafka-replay"
+rootProject.name = "ms-kafka-replay"
